@@ -13,7 +13,7 @@ Formerly, I was
 * an engineer who co-wrote the Readability 2.0 iOS app while @ Arc90;
 * an engineer and researcher who helped drive interactive content @ the [NYPL Labs](https://www.nypl.org/collections/labs).
 
-You can find more information about my presentations and what I've worked on in my [resume](https://drive.google.com/file/d/1GiDTPsio6JKUyXIh_W3huGNANAsRZk77/preview). Check out what I'm currently into and researching [Research and Reading](https://zee.town/research-and-reading/), find code and other *pastebins* @ [scpaste.zee.town](https://scpaste.zee.town), and see me keep track of things I forget under `codememories`.
+You can find more information about my presentations and what I've worked on in my [resume](https://drive.google.com/file/d/1GiDTPsio6JKUyXIh_W3huGNANAsRZk77/preview). Check out what I'm currently into and researching [Research and Reading](https://zee.town/research-and-reading/), find code and other *pastebins* @ [scpaste.zee.town](https://scpaste.zee.town), and see me keep track of things I forget under [`codememories`] on [my site, zee.town](https://zee.town/).
 
 You can also find me at these spots:
 * [Mastodon (types.pl)](https://types.pl/@zeeshanlakhani)
