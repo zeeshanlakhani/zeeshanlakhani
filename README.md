@@ -24,19 +24,18 @@ You can find more information about what I've worked on in my [resume](https://z
 You can also find me at these spots:
 * [Mastodon (types.pl)](https://types.pl/@zeeshanlakhani)
 * [Bluesky](https://bsky.app/profile/zee.town)
-* [Iffy Twitter](https://twitter.com/zeeshanlakhani)
 * [Linkedin](https://www.linkedin.com/in/zeeshanlakhani/)
 * [Github](https://github.com/zeeshanlakhani)
 * [dblp](https://dblp.org/pid/180/5658.html)
 
 ## Code Memories
 
-[Doom Emacs Config (illumos/🌈)](https://zee.town/illumos.config)
-[Doom Emacs Config](https://zee.town/config)
+- [Doom Emacs Config (illumos/🌈)](https://zee.town/memories/illumos.config)
+- [Doom Emacs Config](https://zee.town/memories/config)
 
 ## Publications
-- `August 16, 2024` [Thesis Proposal: Polarized Subtyping](https://zee.town/thesis-proposal#page=3) | Carnegie Mellon University | Zeeshan Lakhani
-- `March 29, 2022` [Polarized Subtyping]([https://zee.town/polarized-subtyping]) | [ESOP 2022](https://etaps.org/user-profile/archive/53-etaps-2022/492-esop-2022-accepted-papers.html) | [Springer version](https://link.springer.com/chapter/10.1007/978-3-030-99336-8_16) | [arXiv version](https://arxiv.org/abs/2201.10998) | [Artifact](https://zenodo.org/records/5913940) | Zeeshan Lakhani, [Ankush Das](https://ankushdas.github.io/), [Henry DeYoung](https://www.cs.cmu.edu/~hdeyoung/), [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), and [Frank Pfenning](http://www.cs.cmu.edu/~fp/)
-- `July 22, 2022` [Checking-in on Network Functions](https://zee.town/checking-in-on-nfs) | [ANRW 2019](https://www.irtf.org/anrw/2019/program.html) | [ACM version](https://dl.acm.org/doi/10.1145/3340301.3341131) | [arXiv version](https://arxiv.org/abs/1812.11145) | Zeeshan Lakhani and [Heather Miller](https://heather.miller.am/)
-- `July 10, 2018` [Towards a Solution to the Red Wedding Problem](https://zee.town/red-wedding) | [HotEdge 2018](https://www.usenix.org/conference/hotedge18/workshop-program) | [Christopher S. Meiklejohn](https://christophermeiklejohn.com/), [Heather Miller](https://heather.miller.am/), and Zeeshan Lakhani
-- `April 18, 2016` [Big(ger) Sets: decomposed delta CRDT Sets in Riak](https://zee.town/bigger-sets) | [PaPoc 2016](https://www2.ucsc.edu/papoc-2016/) | [arXiv version](https://arxiv.org/abs/1605.06424) | [Related Presentation](https://youtu.be/f20882ZSdkU?si=-xe4ZF9iYaKpiUFr) | Russell Brown, Zeeshan Lakhani, and Paul Place
+- `August 16, 2024` [Thesis Proposal: Polarized Subtyping](https://zee.town/publications/thesis-proposal#page=3) | Carnegie Mellon University | Zeeshan Lakhani
+- `March 29, 2022` [Polarized Subtyping](https://zee.town/publications/polarized-subtyping) | [ESOP 2022](https://etaps.org/user-profile/archive/53-etaps-2022/492-esop-2022-accepted-papers.html) | [Springer version](https://link.springer.com/chapter/10.1007/978-3-030-99336-8_16) | [arXiv version](https://arxiv.org/abs/2201.10998) | [Artifact](https://zenodo.org/records/5913940) | Zeeshan Lakhani, [Ankush Das](https://ankushdas.github.io/), [Henry DeYoung](https://www.cs.cmu.edu/~hdeyoung/), [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), and [Frank Pfenning](http://www.cs.cmu.edu/~fp/)
+- `July 22, 2022` [Checking-in on Network Functions](https://zee.town/publications/checking-in-on-nfs) | [ANRW 2019](https://www.irtf.org/anrw/2019/program.html) | [ACM version](https://dl.acm.org/doi/10.1145/3340301.3341131) | [arXiv version](https://arxiv.org/abs/1812.11145) | Zeeshan Lakhani and [Heather Miller](https://heather.miller.am/)
+- `July 10, 2018` [Towards a Solution to the Red Wedding Problem](https://zee.town/publications/red-wedding) | [HotEdge 2018](https://www.usenix.org/conference/hotedge18/workshop-program) | [Christopher S. Meiklejohn](https://christophermeiklejohn.com/), [Heather Miller](https://heather.miller.am/), and Zeeshan Lakhani
+- `April 18, 2016` [Big(ger) Sets: decomposed delta CRDT Sets in Riak](https://zee.town/publications/bigger-sets) | [PaPoc 2016](https://www2.ucsc.edu/papoc-2016/) | [arXiv version](https://arxiv.org/abs/1605.06424) | [Related Presentation](https://youtu.be/f20882ZSdkU?si=-xe4ZF9iYaKpiUFr) | Russell Brown, Zeeshan Lakhani, and Paul Place
